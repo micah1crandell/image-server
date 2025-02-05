@@ -1,0 +1,1 @@
+A media server providing dynamic image routing and theme-based image management for ProPresenter7 through a unified REST API endpoint, eliminating manual file path configurations while enabling real-time image streaming and centralized image distribution.
